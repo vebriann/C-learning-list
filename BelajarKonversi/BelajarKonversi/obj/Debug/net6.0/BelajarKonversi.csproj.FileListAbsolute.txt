@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\bin\Debug\net6.0\BelajarKonversi.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\bin\Debug\net6.0\BelajarKonversi.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\bin\Debug\net6.0\BelajarKonversi.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\bin\Debug\net6.0\BelajarKonversi.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\bin\Debug\net6.0\BelajarKonversi.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\BelajarKonversi.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\BelajarKonversi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\BelajarKonversi.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\BelajarKonversi.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\BelajarKonversi.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\BelajarKonversi.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\refint\BelajarKonversi.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\BelajarKonversi.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\BelajarKonversi.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarKonversi\BelajarKonversi\obj\Debug\net6.0\ref\BelajarKonversi.dll

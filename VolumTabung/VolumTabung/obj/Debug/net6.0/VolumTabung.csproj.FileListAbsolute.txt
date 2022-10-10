@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\bin\Debug\net6.0\VolumTabung.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\bin\Debug\net6.0\VolumTabung.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\bin\Debug\net6.0\VolumTabung.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\bin\Debug\net6.0\VolumTabung.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\bin\Debug\net6.0\VolumTabung.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\VolumTabung.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\VolumTabung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\VolumTabung.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\VolumTabung.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\VolumTabung.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\VolumTabung.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\refint\VolumTabung.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\VolumTabung.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\VolumTabung.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\VolumTabung\VolumTabung\obj\Debug\net6.0\ref\VolumTabung.dll

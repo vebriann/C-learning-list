@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\bin\Debug\net6.0\MencetakTeks.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\bin\Debug\net6.0\MencetakTeks.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\bin\Debug\net6.0\MencetakTeks.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\bin\Debug\net6.0\MencetakTeks.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\bin\Debug\net6.0\MencetakTeks.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\MencetakTeks.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\MencetakTeks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\MencetakTeks.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\MencetakTeks.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\MencetakTeks.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\MencetakTeks.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\refint\MencetakTeks.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\MencetakTeks.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\MencetakTeks.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\MencetakTeks\MencetakTeks\obj\Debug\net6.0\ref\MencetakTeks.dll

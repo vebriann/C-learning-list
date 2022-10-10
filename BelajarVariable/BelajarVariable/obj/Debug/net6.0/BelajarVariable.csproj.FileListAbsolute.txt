@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\BelajarVariable.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\BelajarVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\BelajarVariable.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\BelajarVariable.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\BelajarVariable.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\bin\Debug\net6.0\BelajarVariable.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\bin\Debug\net6.0\BelajarVariable.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\bin\Debug\net6.0\BelajarVariable.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\bin\Debug\net6.0\BelajarVariable.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\bin\Debug\net6.0\BelajarVariable.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\BelajarVariable.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\refint\BelajarVariable.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\BelajarVariable.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\BelajarVariable.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\BelajarVariable\BelajarVariable\obj\Debug\net6.0\ref\BelajarVariable.dll
