@@ -1,8 +1,8 @@
 ﻿using System;
 
-class VolumTabung
+public class VolumTabung
 {
-    static void Main()
+     public static void Main()
     {
         Console.WriteLine(" Masukan Jari Jari Tabung");
         Console.Write(" Jari Jari: ");
@@ -12,8 +12,7 @@ class VolumTabung
         int Tinggi = int.Parse(Console.ReadLine());
         double phi = 3.14;
         var hasil = phi * Jari * Jari * Tinggi;
-        float converthasil = (float)hasil;
-        Console.WriteLine($"Volume Tabung = {converthasil}");
+        Console.WriteLine($"Volume Tabung = {hasil}");
 
     }
 }
