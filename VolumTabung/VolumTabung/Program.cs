@@ -2,7 +2,11 @@
 
 public class VolumTabung
 {
+<<<<<<< HEAD
     public static void Main()
+=======
+     public static void Main()
+>>>>>>> c8b4b747bcd807ee0025d6fc576b50210d5b8c16
     {
         Console.WriteLine(" Masukan Jari Jari Tabung");
         Console.Write(" Jari Jari: ");
