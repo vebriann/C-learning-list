@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\bin\Debug\net6.0\PercabangaC.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\bin\Debug\net6.0\PercabangaC.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\bin\Debug\net6.0\PercabangaC.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\bin\Debug\net6.0\PercabangaC.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\bin\Debug\net6.0\PercabangaC.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\PercabangaC.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\PercabangaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\PercabangaC.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\PercabangaC.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\PercabangaC.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\PercabangaC.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\refint\PercabangaC.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\PercabangaC.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\PercabangaC.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PercabangaC\PercabangaC\obj\Debug\net6.0\ref\PercabangaC.dll
