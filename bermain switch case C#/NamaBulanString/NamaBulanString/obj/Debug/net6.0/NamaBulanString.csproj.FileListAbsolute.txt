@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\bin\Debug\net6.0\NamaBulanString.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\bin\Debug\net6.0\NamaBulanString.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\bin\Debug\net6.0\NamaBulanString.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\bin\Debug\net6.0\NamaBulanString.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\bin\Debug\net6.0\NamaBulanString.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\NamaBulanString.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\NamaBulanString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\NamaBulanString.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\NamaBulanString.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\NamaBulanString.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\NamaBulanString.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\refint\NamaBulanString.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\NamaBulanString.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\NamaBulanString.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaBulanString\NamaBulanString\obj\Debug\net6.0\ref\NamaBulanString.dll

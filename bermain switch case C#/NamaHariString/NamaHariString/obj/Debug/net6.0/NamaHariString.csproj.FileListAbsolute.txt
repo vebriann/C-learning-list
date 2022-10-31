@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\bin\Debug\net6.0\NamaHariString.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\bin\Debug\net6.0\NamaHariString.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\bin\Debug\net6.0\NamaHariString.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\bin\Debug\net6.0\NamaHariString.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\bin\Debug\net6.0\NamaHariString.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\NamaHariString.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\NamaHariString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\NamaHariString.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\NamaHariString.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\NamaHariString.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\NamaHariString.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\refint\NamaHariString.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\NamaHariString.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\NamaHariString.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\NamaHariString\NamaHariString\obj\Debug\net6.0\ref\NamaHariString.dll
