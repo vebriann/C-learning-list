@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\bin\Debug\net6.0\PerulanganFor.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\bin\Debug\net6.0\PerulanganFor.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\bin\Debug\net6.0\PerulanganFor.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\bin\Debug\net6.0\PerulanganFor.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\bin\Debug\net6.0\PerulanganFor.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\PerulanganFor.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\PerulanganFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\PerulanganFor.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\PerulanganFor.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\PerulanganFor.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\PerulanganFor.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\refint\PerulanganFor.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\PerulanganFor.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\PerulanganFor.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganFor\PerulanganFor\obj\Debug\net6.0\ref\PerulanganFor.dll

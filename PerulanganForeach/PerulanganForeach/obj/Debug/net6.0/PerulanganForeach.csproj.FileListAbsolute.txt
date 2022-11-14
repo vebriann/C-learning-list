@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\bin\Debug\net6.0\PerulanganForeach.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\bin\Debug\net6.0\PerulanganForeach.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\bin\Debug\net6.0\PerulanganForeach.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\bin\Debug\net6.0\PerulanganForeach.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\bin\Debug\net6.0\PerulanganForeach.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\PerulanganForeach.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\PerulanganForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\PerulanganForeach.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\PerulanganForeach.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\PerulanganForeach.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\PerulanganForeach.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\refint\PerulanganForeach.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\PerulanganForeach.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\PerulanganForeach.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\PerulanganForeach\PerulanganForeach\obj\Debug\net6.0\ref\PerulanganForeach.dll
